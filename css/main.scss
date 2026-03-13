@@ -7,3 +7,59 @@
   'normalize',
   'biscuit',
   'syntax';
+
+/* =========================
+   Accessibility overrides
+   ========================= */
+
+body {
+  color: #222;
+}
+
+h1, h2, h3, h4 {
+  color: #111;
+}
+
+/* Links: stronger contrast, always distinguishable, larger tap target */
+a,
+button {
+  display: inline-block;
+  padding: 8px 6px;
+}
+
+a {
+  color: #005fcc;
+  text-decoration: underline;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+/* Footer */
+#footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 24px;
+}
+
+#footer small {
+  color: #222;
+}
+
+/* Skip link for keyboard users */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+}
+
+.skip-link:focus {
+  left: 20px;
+  top: 20px;
+  background: #000;
+  color: #fff;
+  padding: 10px 12px;
+  z-index: 1000;
+}
