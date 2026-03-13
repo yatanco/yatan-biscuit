@@ -4,7 +4,8 @@ layout: default
 
 # Yatan Blumenthal Vargas
 
-I work on brain health, decentralized science, and projects related to neurodegenerative disease.
+Hello! I’m Yatan.
+I work on brain health, decentralized science, and building communities that help new ideas grow.
 
 [about](#about) | [now](#now) | [roles](#roles) | [writing](#writing) | [contact](#contact)
 
