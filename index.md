@@ -2,45 +2,57 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+# Yatan Blumenthal Vargas
 
+I work on brain health, decentralized science, and projects related to neurodegenerative disease.
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the simplest and still-good-looking Jekyll theme that you can find. 
+[about](#about) | [now](#now) | [roles](#roles) | [writing](#writing) | [contact](#contact)
 
-## Usage
+---
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or simply use it with [GitHub Pages](https://pages.github.com).
-For local usage, simply download [Jekyll](http://jekyllrb.com/) and follow the installation guide for more information. You can download the latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+## About
 
-If you prefer to use GitHub Pages, you do not need to download it, upload files to a new repository, etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+I work at the intersection of science, systems, and communities.
 
-### Files
+Over the years I’ve worked across operations, strategy, facilitation, and community-building — often in emerging or unconventional environments.
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+My current focus is brain health and neurodegenerative disease, and exploring how new organizational models such as decentralized science can accelerate progress.
 
-## Example tag usage
+---
 
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
+## What I’m doing now
 
-> blockquotes
+- Working on decentralized science and brain health
+- Exploring ways to help cure or prevent neurodegenerative disease
+- Building and supporting scientific communities
+- Writing short essays and notes at [Guacamaya Lab](https://guacamayalab.com)
 
-~~~python
-import os,time
-print ("Biscuit")
-~~~
+---
 
-## Licence and Author Information
+## Previous roles
 
-Biscuit is derived from the currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://sblisesivdin.github.io).
+- Operations Lead at a BioDAO
+- Facilitator for team-building, strategy, and organizational development
+- Operator in technology and biotech-adjacent environments
+- Builder of communities and experiments around science, learning, and collaboration
 
-Biscuit and the previous code, where Biscuit is derived, are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+---
+
+## Writing
+
+I write short notes and essays at **[Guacamaya Lab](https://guacamayalab.com)**.
+
+Guacamaya Lab is an online notebook — unfinished, evolving, honest.
+
+---
+
+## Contact
+
+- [Guacamaya Lab](https://guacamayalab.com)
+- [GitHub](https://github.com/yatanco)
+- [LinkedIn](https://linkedin.com)
+- Email: yatan@yourdomain.com
+
+---
+
+© Yatan Blumenthal Vargas
