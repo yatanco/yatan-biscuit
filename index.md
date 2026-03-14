@@ -56,4 +56,4 @@ Guacamaya Lab is an online notebook — unfinished, evolving, honest.
 
 ---
 
-© Yatan Blumenthal Vargas
+© Yatan Blumenthal Vargas | Source on (GitHub](http://github.com/yatanco/yatan-biscuit)
