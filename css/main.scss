@@ -9,18 +9,30 @@
   'syntax';
 
 /* =========================
-   Accessibility overrides
+   Base typography
    ========================= */
 
 body {
   color: #222;
+  line-height: 1.65;
 }
 
 h1, h2, h3, h4 {
   color: #111;
 }
 
-/* Links: stronger contrast, always distinguishable, larger tap target */
+p {
+  margin-bottom: 1.2em;
+}
+
+.container {
+  max-width: 680px;
+}
+
+/* =========================
+   Links and buttons
+   ========================= */
+
 a,
 button {
   display: inline-block;
@@ -29,15 +41,23 @@ button {
 
 a {
   color: #005fcc;
-  text-decoration: underline;
-}
-
-a:hover,
-a:focus {
   text-decoration: none;
+  border-bottom: 1px solid #bbb;
 }
 
-/* Footer */
+a:hover {
+  border-bottom-color: #000;
+}
+
+a:focus {
+  outline: 2px solid #005fcc;
+  outline-offset: 2px;
+}
+
+/* =========================
+   Footer
+   ========================= */
+
 #footer {
   text-align: center;
   margin-top: 40px;
@@ -48,11 +68,18 @@ a:focus {
   color: #222;
 }
 
-/* Skip link for keyboard users */
+#footer a {
+  color: #003a8f;
+}
+
+/* =========================
+   Skip link
+   ========================= */
+
 .skip-link {
   position: absolute;
-  left: -9999px;
   top: 0;
+  left: -9999px;
 }
 
 .skip-link:focus {
@@ -62,8 +89,4 @@ a:focus {
   color: #fff;
   padding: 10px 12px;
   z-index: 1000;
-}
-
-#footer a {
-  color: #003a8f;
 }
